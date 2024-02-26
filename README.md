@@ -1,5 +1,5 @@
 ## Note
-In order to comply with non-disclosure agreement (NDA), raw dataset was not disclosed and some of the data in this industry live project were masked.
+In order to comply with non-disclosure agreement (NDA), only final processed dataset is attached (raw dataset is not disclosed).
 
 # Overview
 Wind Turbine frequent failure is causing decrease production rate of electricity and increase in maintenance cost.
